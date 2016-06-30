@@ -1,0 +1,7 @@
+verilog isim_temp "Instruction_Memory.v"
+verilog isim_temp "Data_Memory.v"
+verilog isim_temp "ALU.v"
+verilog isim_temp "Datapath_Unit.v"
+verilog isim_temp "Control_Unit.v"
+verilog isim_temp "Risc_16_bit.v"
+verilog isim_temp "E:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

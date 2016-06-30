@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/Xilinx Workspace/Project2/Project_2/test_Risc_16_bit_isim_beh.exe" -prj "E:/Xilinx Workspace/Project2/Project_2/test_Risc_16_bit_beh.prj" "work.test_Risc_16_bit" "work.glbl" 

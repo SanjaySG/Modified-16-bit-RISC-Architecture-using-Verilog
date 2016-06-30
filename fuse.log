@@ -1,0 +1,33 @@
+Running: E:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o E:/Xilinx Workspace/Project2/Project_2/test_Risc_16_bit_isim_beh.exe -prj E:/Xilinx Workspace/Project2/Project_2/test_Risc_16_bit_beh.prj work.test_Risc_16_bit work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/Xilinx Workspace/Project2/Project_2/Instruction_Memory.v" into library work
+Analyzing Verilog file "E:/Xilinx Workspace/Project2/Project_2/Data_Memory.v" into library work
+Analyzing Verilog file "E:/Xilinx Workspace/Project2/Project_2/ALU.v" into library work
+Analyzing Verilog file "E:/Xilinx Workspace/Project2/Project_2/Datapath_Unit.v" into library work
+Analyzing Verilog file "E:/Xilinx Workspace/Project2/Project_2/Control_Unit.v" into library work
+Analyzing Verilog file "E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" into library work
+Analyzing Verilog file "E:/Xilinx Workspace/Project2/Project_2/test_Risc_16_bit.v" into library work
+Analyzing Verilog file "E:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" Line 25: Size mismatch in connection of port <pc_instr>. Formal port size is 16-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" Line 40: Size mismatch in connection of port <rd1>. Formal port size is 16-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" Line 41: Size mismatch in connection of port <rd2>. Formal port size is 16-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" Line 42: Size mismatch in connection of port <offset>. Formal port size is 6-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" Line 43: Size mismatch in connection of port <offsetJump>. Formal port size is 12-bit while actual signal size is 1-bit.
+Completed static elaboration
+Compiling module Instruction_Memory
+Compiling module Data_Memory
+Compiling module ALU
+Compiling module Datapath_Unit
+Compiling module Control_Unit
+Compiling module Risc_16_bit
+Compiling module test_Risc_16_bit
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 8 Verilog Units
+Built simulation executable E:/Xilinx Workspace/Project2/Project_2/test_Risc_16_bit_isim_beh.exe
+Fuse Memory Usage: 44652 KB
+Fuse CPU Usage: 531 ms

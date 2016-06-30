@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" Line 25: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">pc_instr</arg>&gt;. Formal port size is <arg fmt="%d" index="2">16</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" Line 40: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">rd1</arg>&gt;. Formal port size is <arg fmt="%d" index="2">16</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" Line 41: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">rd2</arg>&gt;. Formal port size is <arg fmt="%d" index="2">16</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" Line 42: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">offset</arg>&gt;. Formal port size is <arg fmt="%d" index="2">6</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"E:/Xilinx Workspace/Project2/Project_2/Risc_16_bit.v" Line 43: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">offsetJump</arg>&gt;. Formal port size is <arg fmt="%d" index="2">12</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+</messages>
+

@@ -1,0 +1,8 @@
+verilog work "Instruction_Memory.v"
+verilog work "Data_Memory.v"
+verilog work "ALU.v"
+verilog work "Datapath_Unit.v"
+verilog work "Control_Unit.v"
+verilog work "Risc_16_bit.v"
+verilog work "test_Risc_16_bit.v"
+verilog work "E:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
